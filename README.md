@@ -1,3 +1,6 @@
+
+# THIS IS THE OLD REPO PLEASE VISIT THE NEW ONE https://github.com/swawesome9598/i3-polybar-config (old config still works)
+
 # i3config
 This is my i3gaps config feel free to modify,use, or fork this repository.
 # Dependencies
